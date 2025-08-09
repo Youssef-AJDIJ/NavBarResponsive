@@ -8,7 +8,7 @@
 }   
 
 body{
-    max-width: 1200px;
+    max-width: 100dvw;
     margin: 0 auto;
     height: 100dvh;
     background-color: #e5e5e5;
